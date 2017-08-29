@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "line-chomper": "^0.5.0",
     "xml2js": "^0.4.17"
   }
 }
